@@ -1,0 +1,11 @@
+# Introduction 
+
+The relationship between employees and employers is symbiotic, both relying on each other to fulfill their goals. Thus, employee turnover is a essential factor for both prospective employees seeking career options, and for HR departments of a firm. Prospective workers can use this metric to assess the quality of life in a position, whereas, hiring managers can utilize this to improve work conditions to ensure retainment. **Employee turnover is classically defined as an employee’s “voluntary” severance of his or her current employment ties** (Mobley, 1982; Hom et al., 2019). The Hom et al. study goes further classifying voluntary as all reasons other than dismissals, layoffs, or retirement since employee turnover involves individual choice (Hom et al., 2019).
+
+In this report, we wish to analyze the factors influencing whether an employee leaves a company, and develop a predictive logistic regression model. The dataset to perform analysis on was obtained from **kaggle.com**. It contains $4653$ observations in total with each observation corresponding to an employee. There were $9$ variables, each being details about an employee, with the last variable `LeaveOrNot` representing whether the employee leaves the company. 
+
+<br>Each group member analyzed a type of variable selection/ shrinkage technique individually and compared results. Throughout the course of this project, we wished to **predict whether an employee stays at or leaves a company depending on various other factors relating to them such as their** `Education`, `JoiningYear`, `City`, `PaymentTier`, `Age`, `Gender`, `EverBenched`, and `ExperienceInCurrentDomain`. 
+
+Past studies have attempted to provide insight into the factors which influence employee turnover. Khatri & Budhwar’s study regarding Singaporean industries looked into age and education level, stating that "there was not much evidence for the belief that younger and more educated Singaporeans have a greater intention to leave" (Khatri & Budhwar, 2001). Another study investigated whether an employee’s retention is related with their experience, and concluded that employee retention and company experience were associated (Chatzipetrou et al., 2018).
+
+\* - *(From the final report ipynb file)*
